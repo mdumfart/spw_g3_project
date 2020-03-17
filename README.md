@@ -2,7 +2,7 @@
 This is a test project
 
 This
-is
+was
 a
 very
 nice
